@@ -11,12 +11,12 @@ Then
 cd goit-ds-hw-01/bot-with-poetry
 ```
 
-Install dependencies with poetry
+## Install dependencies with poetry
 ```bash
 (Invoke-WebRequest -Uri https://install.python-poetry.org -UseBasicParsing).Content | py -
 ```
 ```bash
-poetry install
+poetry install --no-root
 ```
 
 ## Run it
