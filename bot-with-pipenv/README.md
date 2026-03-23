@@ -11,7 +11,7 @@ Then
 cd goit-ds-hw-01/bot-with-pipenv
 ```
 
-## Install dependencies with pipenv
+Install dependencies with pipenv
 ```bash
 pip install pipenv --user
 ```
